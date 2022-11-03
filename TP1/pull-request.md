@@ -1,0 +1,1 @@
+Pull request es una funcionalidad de Github en la que un colaborador pide que revisen sus cambios antes de hacer merge a una rama. Al hacer un pull request, se genera una conversación que pueden seguir los demás usuarios del repositorio, así como autorizar y rechazar los cambios.

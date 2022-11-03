@@ -1,0 +1,3 @@
+Cuando se quiere hacer git merge y hay conflictos, hay 3 archivos. local, base, remote.
+
+El local es mi rama, remote es la rama a ser mergeada y base es el que tiene los cambios de version final
