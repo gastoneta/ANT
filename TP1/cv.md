@@ -1,4 +1,4 @@
-Nombre:Martin Maximo
-Apellido: Rivero
-Idiomas: Todos
+Nombre: Gaston 
+Apellido: Rancic
+Idiomas: mil idiomas
 Nueva linea: si
